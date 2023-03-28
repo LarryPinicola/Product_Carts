@@ -1,0 +1,11 @@
+.navbar {
+    top: 0;
+    position: sticky;
+    background:#fff;
+    z-index: 9;
+}
+
+.title:hover{
+    transform: scale(1.1);
+    transition: all 1s;
+}
